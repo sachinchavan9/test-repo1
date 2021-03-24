@@ -1,0 +1,61 @@
+## List of Companies in India
+
+Global Rank	Indian Companies	Sales	Profits	Assets	Market Value
+#106 	Reliance Industries	$41.8 B	$4.3 B	$97.9 B	$71.2 B
+#244 	State Bank of India	$43.7 B	$667 M	$493.3 B	$36.5 B
+#246 	Oil & Natural Gas	$19.9 B	$2.2 B	$57.7 B	$37.2 B
+#258 	HDFC Bank	$11.4 B	$2 B	$110.3 B	$57.4 B
+#264 	Indian Oil	$54.1 B	$1.7 B	$37.3 B	$30 B
+#290 	Tata Motors	$41.2 B	$1.7 B	$39.5 B	$24.9 B
+#310 	ICICI Bank	$11.9 B	$1.6 B	$138.9 B	$25.1 B
+#373 	HDFC	$8.1 B	$1.6 B	$64.9 B	$36.7 B
+#376 	Tata Consultancy Services	$17.4 B	$3.9 B	$14.5 B	$74.5 B
+#408 	NTPC	$12.2 B	$1.6 B	$38.7 B	$21.5 B
+#463 	Axis Bank	$7.8 B	$1.3 B	$80.4 B	$18.8 B
+#483 	Larsen & Toubro	$15.7 B	$814 M	$29.8 B	$24.5 B
+#513 	Bharti Airtel	$14.7 B	$702 M	$34.8 B	$21.4 B
+#541 	Coal India	$11 B	$1.6 B	$17.8 B	$27.4 B
+#583 	Bharat Petroleum	$28.8 B	$1.2 B	$14.4 B	$15.2 B
+#598 	Infosys	$10.1 B	$2.1 B	$11.9 B	$34.9 B
+#744 	Kotak Mahindra Bank	$4.8 B	$683 M	$37.4 B	$25.1 B
+#765 	Wipro	$8.1 B	$1.3 B	$11.8 B	$19.4 B
+#797 	ITC	$6 B	$1.5 B	$7.8 B	$51.6 B
+#807 	Hindustan Petroleum	$28.5 B	$752 M	$13.7 B	$8.5 B
+#884 	Power Grid of India	$3.2 B	$919 M	$27.8 B	$15.9 B
+#916 	Mahindra & Mahindra	$10.7 B	$491 M	$16.4 B	$11.8 B
+#958 	HCL Technologies	$6.3 B	$1.1 B	$6.4 B	$18.7 B
+#1023 	Sun Pharma Industries	$4.6 B	$1.1 B	$9.1 B	$24.9 B
+#1076 	Tata Steel	$16.1 B	$-444 M	$25.7 B	$7.5 B
+#1086 	Power Finance	$4.3 B	$945 M	$37.3 B	$6.3 B
+#1145 	Bank of Baroda	$7.9 B	$-774 M	$104.4 B	$6.1 B
+#1148 	Punjab National Bank	$8.8 B	$-564 M	$107.7 B	$4.9 B
+#1175 	Hindalco Industries	$15.2 B	$31 M	$22 B	$6.8 B
+#1230 	Canara Bank	$7.5 B	$-398 M	$85.1 B	$2.8 B
+#1234 	Rural Electrification	$3.7 B	$869 M	$32.2 B	$5.7 B
+#1239 	Yes Bank	$2.5 B	$386 M	$25 B	$11 B
+#1250 	Bank of India	$7 B	$-948 M	$93.1 B	$2.3 B
+#1272 	IndusInd Bank	$2.3 B	$349 M	$21.2 B	$13.1 B
+#1283 	GAIL India	$8.3 B	$344 M	$11 B	$10.2 B
+#1347 	JSW Steel	$7.3 B	$407 M	$12.8 B	$7.5 B
+#1420 	Union Bank of India	$5.5 B	$207 M	$61.8 B	$1.6 B
+#1435 	Bajaj Auto	$3.5 B	$578 M	$3.1 B	$12.8 B
+#1513 	Adani Ports & Special Economic Zone	$1.2 B	$549 M	$6 B	$11.2 B
+#1524 	IDBI Bank	$4.8 B	$-548 M	$56.6 B	$2.4 B
+#1556 	Rajesh Exports	$36.3 B	$173 M	$3.5 B	$2.8 B
+#1587 	Hero Motocorp	$4.3 B	$473 M	$1.9 B	$10 B
+#1622 	Grasim Industries	$5.3 B	$461 M	$9.1 B	$7.7 B
+#1664 	Central Bank of India	$4.3 B	$-167 M	$46.4 B	$3 B
+#1716 	Lupin	$2.5 B	$444 M	$3.6 B	$9.9 B
+#1745 	Syndicate Bank	$3.9 B	$-232 M	$46.7 B	$985 M
+#1783 	Asian Paints	$2.3 B	$281 M	$1.7 B	$16.1 B
+#1828 	Indian Overseas Bank	$3.5 B	$-552 M	$37.8 B	$1 B
+#1845 	Allahabad Bank	$3.2 B	$-110 M	$35.7 B	$838 M
+#1849 	UCO Bank	$2.9 B	$-443 M	$35.7 B	$905 M
+#1854 	Corporation Bank	$3.2 B	$-77 M	$35.5 B	$980 M
+#1859 	Oriental Bank of Commerce	$3.2 B	$22 M	$34.9 B	$769 M
+#1930 	Steel Authority of India	$5.9 B	$-656 M	$16.2 B	$4.3 B
+#1934 	Indiabulls Housing Finance	$1.7 B	$408 M	$13.7 B	$6.3 B
+#1937 	Indian Bank	$2.8 B	$115 M	$30.8 B	$2 B
+#1940 	Andhra Bank	$3 B	$85 M	$30.7 B	$616 M
+#1952 	Motherson Sumi Systems	$6.1 B	$222 M	$3.9 B	$8.3 B
+#1998 	Tech Mahindra	$4.2 B	$469 M	$3.6 B	$6.7 B
