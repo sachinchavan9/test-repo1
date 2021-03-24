@@ -1,10 +1,12 @@
 
 # FOO PVT LTD
 
+# credentials added in .env file
+
 secret = { 
         'credientials': { 
-            'email': 'foo@bar.com',
-            'password': 'Password@12345'
+            'email': config('email'),
+            'password': config('password')
             }
     }
 
